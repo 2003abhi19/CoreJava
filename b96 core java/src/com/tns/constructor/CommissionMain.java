@@ -11,7 +11,7 @@ public class CommissionMain {
 		ob.setSales_amount(75000);
 		System.out.println(ob);
 		
-		
+		//calculation method
 		ob.commission();
 
 	
