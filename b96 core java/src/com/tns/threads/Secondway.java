@@ -9,7 +9,7 @@ public class Secondway implements Runnable{
 		th.start();//runnable
 		//th.start();//illigal thread state exception
 		th.run();//acts as normal method
-		th.sleep(0);
+		//th.sleep(0);
 		
 		
 
